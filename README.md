@@ -38,6 +38,9 @@ standard error, and accuracy rate in order.
 results.csv: This file summarizes trials in which the correct answer was
 chosen, grouped by condition. It records the average reaction time, standard error,
 and accuracy rate for each condition.
+# Skills
+Python, Psychopy, pandas, numpy
+
 
 
 
