@@ -1,5 +1,5 @@
 # word matching cognitive experiment
-Overview of the experiment
+# Overview of the experiment
 This experiment was designed to understand how people store and process the meaning of
 words, concepts, and objects in their minds. In the experiment, participants are shown a
 target word along with three choice words. They are asked to choose which word is most
